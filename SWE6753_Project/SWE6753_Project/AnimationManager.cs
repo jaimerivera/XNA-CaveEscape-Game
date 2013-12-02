@@ -8,6 +8,9 @@ using SWE6753_Project.AnimationStates;
 
 namespace SWE6753_Project
 {
+    /// <summary>
+    /// Class to manage the animation of the characters
+    /// </summary>
     public class AnimationManager
     {
         Player _player;
